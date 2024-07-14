@@ -14,7 +14,7 @@ Databases: MySQL, PostgreSQL, MongoDB
 
 📫 How to reach me: 
 How to Reach Me
-[Email][surabhisingh0575@gmail.com]
+[Email](surabhisingh0575@gmail.com)
 
 [LinkedIn](surabhisingh1215)
 
