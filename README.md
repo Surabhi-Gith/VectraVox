@@ -12,7 +12,8 @@ Frameworks & Libraries: React, Node.js, Django
 Tools & Platforms: Git, Docker, AWS
 Databases: MySQL, PostgreSQL, MongoDB
 
-📫 How to reach me: Email : [surabhisingh0575@gmail.com] : [LinkedIn](www.linkedin.com/in/surabhi-singh-9a9593136) : [X](https://x.com/1Singh1209)
+📫 How to reach me: Email : [surabhisingh0575@gmail.com] : [LinkedIn]( www.linkedin.com/in/
+surabhisingh1215) : [X](https://x.com/1Singh1209)
 
 📚 Education
 [BTech] in [Computer Science] from [Amity University Uttar Pradesh]
