@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and bringing ideas to life through code.
 
-🌱 I’m currently upskilling in various domains including AI and data analysis. 👯 I’m looking to collaborate on LIVE PROJECTS.
-🤔 I’m actively seeking Job opportunities, aspiring to transition into a developer role and build impactful projects.
+🌱 Currently upskilling in various domains including AI and data analysis. 👯 looking to collaborate on LIVE PROJECTS.
+🤔 Actively seeking Job opportunities, aspiring to transition into a developer role and build impactful projects.
 🎯 Determined to achieve exponential growth and development both personally and professionally.
 
 💻 Skills
