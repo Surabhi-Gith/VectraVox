@@ -13,7 +13,7 @@ Programming Languages: Python, JavaScript, HTML, CSS
 |Tools & Platforms: Git, Docker, AWS
 |Databases: MySQL, PostgreSQL, MongoDB
 
-📫 How to reach me: Email : [surabhisingh0575@gmail.com] : [LinkedIn]( www.linkedin.com/in/
+📫 How to reach me: Email : [surabhisingh0575@gmail.com] : [LinkedIn](www.linkedin.com/in/
 surabhisingh1215) : [X](https://x.com/1Singh1209)
 
 📚 Education
