@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Surabhi Singh
+![1](https://github.com/user-attachments/assets/d6827405-fb71-45d8-b564-aad132953109)
+
+
 [![Surabhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![2](https://github.com/user-attachments/assets/a97707ea-6efc-4f37-aef0-1e97ba608445)
-
-
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating innovative solutions and bringing ideas to life through code.
 
