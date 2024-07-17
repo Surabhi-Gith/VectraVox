@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Surabhi Singh
-![1](https://github.com/user-attachments/assets/d6827405-fb71-45d8-b564-aad132953109)
+
+![Uploading Green Teal Geometric Modern Computer Programmer Code Editor Quotes Instagram Post.png…]()
 
 
 [![Surabhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
