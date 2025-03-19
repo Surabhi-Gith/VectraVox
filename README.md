@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Surabhi Singh
 
+![Profile Banner](https://github.com/surbhisingh1215/surbhisingh1215/blob/main/Surabhi.png?raw=true)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&show_icons=true)
 
