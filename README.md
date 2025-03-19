@@ -59,7 +59,7 @@
 
 ## 🎓 My Credly Badges
 
-[![Credly Badge 1]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1eee9763-2854-4343-acee-188d763ea5d5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Credly Badge 1] (<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1eee9763-2854-4343-acee-188d763ea5d5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
 
 
 ## ✍️ Blog:
