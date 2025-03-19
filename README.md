@@ -47,6 +47,9 @@
   </table>
 </div>
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 
 ![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surbhisingh1215&theme=dracula)
 
