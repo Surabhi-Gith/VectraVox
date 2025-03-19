@@ -8,51 +8,51 @@
 
 ## 🛠️ My Tech Stack:
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center; padding: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; padding: 20px;">
 
   <!-- HTML -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
   <!-- CSS -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
   <!-- JavaScript -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
   <!-- Node.js -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
   <!-- React -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
   <!-- MongoDB -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
   <!-- Docker -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
   <!-- MySQL -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
   <!-- Python -->
   <div style="text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="width: 80px; height: 80px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="width: 90px; height: 90px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
   </div>
 
 </div>
