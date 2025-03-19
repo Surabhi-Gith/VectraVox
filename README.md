@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Surabhi Singh
-![Profile Banner][(https://www.canva.com/design/DAGiLWMWsp8/KcDt4cyEAK9aUdsxVwZ72w/view?utm_content=DAGiLWMWsp8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h458139d0e9)]
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&show_icons=true)
 
