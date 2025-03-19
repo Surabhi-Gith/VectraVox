@@ -10,6 +10,7 @@
 ![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surbhisingh1215&theme=dracula)
 
 ![Visitor Count](https://profile-counter.glitch.me/surbhisingh1215/count.svg)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=surbhisingh1215&theme=radical)
 
 ## ✍️ Blog:
 - [My Personal Blog](https://my-blog-url.com)
