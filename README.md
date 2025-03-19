@@ -3,3 +3,5 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surbhisingh1215&theme=dracula)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&show_icons=true)
