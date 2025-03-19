@@ -4,7 +4,7 @@
 
 ## My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&show_icons=true&hide_title=true&count_private=true&hide=prs&show_icons=true&hide_border=true&bg_color=ffffff&border_radius=10&theme=radical | width=500px)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhisingh1215&layout=compact&langs_count=10&hide=html&hide_border=true&theme=radical | width=500px)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhisingh1215&layout=donut)  
 
 ## 🛠️ My Tech Stack:
 
