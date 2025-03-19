@@ -2,11 +2,7 @@
 
 ![Profile Banner](https://github.com/surbhisingh1215/surbhisingh1215/blob/main/Surabhi.png?raw=true)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhisingh1215&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surbhisingh1215)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhisingh1215&layout=compact) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surbhisingh1215)
 
 ## 🛠️ Tech Stack & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
