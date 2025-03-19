@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Surabhi Singh
+## Hi there 👋 
 
 ![Profile Banner](https://github.com/surbhisingh1215/surbhisingh1215/blob/main/Surabhi.png?raw=true)
 
