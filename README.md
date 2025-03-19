@@ -45,11 +45,6 @@
     </tr>
   </table>
 </div>
-
-## 🟢 My GitHub Activity Tracker
-
-[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=surbhisingh1215&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surbhisingh1215&theme=dracula)
 
 ![Visitor Count](https://profile-counter.glitch.me/surbhisingh1215/count.svg) 
