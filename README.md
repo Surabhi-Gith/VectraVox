@@ -54,7 +54,13 @@
 ![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surbhisingh1215&theme=dracula)
 
 ![Visitor Count](https://profile-counter.glitch.me/surbhisingh1215/count.svg) 
+
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=surbhisingh1215&theme=radical)
+
+## 🎓 My Credly Badges
+
+[![Credly Badge 1]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1eee9763-2854-4343-acee-188d763ea5d5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ## ✍️ Blog:
 - [My Personal Blog](https://my-blog-url.com)
