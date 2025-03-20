@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-![Profile Banner](https://github.com/surbhisingh1215/surbhisingh1215/blob/main/Surabhi.png?raw=true)
+![Profile Banner](https://github.com/Surabhi-Gith/Surabhi-Gith/blob/main/Surabhi.png?raw=true)
 
 ## My GitHub Stats
 
@@ -51,11 +51,11 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surbhisingh1215&theme=dracula)
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Surabhi-Gith&theme=dracula)
 
-![Visitor Count](https://profile-counter.glitch.me/surbhisingh1215/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/Surabhi-Gith/count.svg) 
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=surbhisingh1215&theme=radical)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Surabhi-Gith&theme=radical)
 
 
 ## ✍️ Blog:
