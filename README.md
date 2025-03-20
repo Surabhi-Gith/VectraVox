@@ -61,9 +61,7 @@
 
 ![CCNA Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/CCNAITN__1_.png)
 ![I2CS Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/I2CS__1_.png)
-![Surabhi Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/Surabhi.png)
 ![Image 1 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(1).png)
-![Image 2 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(2).png)
 ![Image 3 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(3).png)
 ![Image 4 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(4).png)
 ![Image 5 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(5).png)
