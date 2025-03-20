@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-![Banner](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/Surabhi.png)
+![Surabhi Banner](https://github.com/Surabhi-Gith/VectraVox/raw/main/Surabhi.png)
 
 ## My GitHub Stats
 
