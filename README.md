@@ -57,11 +57,6 @@
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=surbhisingh1215&theme=radical)
 
-## 🎓 My Credly Badges
-
-[![Credly Badge 1] (https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)
-[![Credly Badge 1] (https://images.credly.com/size/680x680/images/d5f75c22-4278-42d0-9429-ccc6ffc53733/image.png)
-
 
 ## ✍️ Blog:
 - [My Personal Blog](https://my-blog-url.com)
