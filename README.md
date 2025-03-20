@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-![Profile Banner](https://github.com/Surabhi-Gith/VectraVox/blob/main/image/Surabhi.png?raw=true)
+![Banner](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/Surabhi.png)
 
 ## My GitHub Stats
 
@@ -66,6 +66,7 @@
 ![Image 4 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(4).png)
 ![Image 5 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(5).png)
 ![Image 6 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(6).png)
+![Image Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image.png)
 
 
 ## ✍️ Blog:
