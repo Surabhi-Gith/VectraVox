@@ -70,8 +70,7 @@
 
 
 ## ✍️ Blog:
-- [My Personal Blog](https://my-blog-url.com)
-- [Dev.to Articles](https://dev.to/yourusername)
+- [Dev.to Articles](https://dev.to/surabhigith)
 - [My Medium Profile](https://medium.com/@surabhisingh0575)
 
 - ## Thanks for visiting my profile! 🚀  
