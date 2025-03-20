@@ -61,7 +61,7 @@
 ## ✍️ Blog:
 - [My Personal Blog](https://my-blog-url.com)
 - [Dev.to Articles](https://dev.to/yourusername)
-- [My Medium Profile](https://medium.com/surabhisingh0575)
+- [My Medium Profile](https://medium.com/@surabhisingh0575)
 
 - ## Thanks for visiting my profile! 🚀  
 I'm always open to collaborating on interesting projects. Let's build something amazing together!
