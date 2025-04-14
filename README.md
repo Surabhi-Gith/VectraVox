@@ -76,9 +76,14 @@
 <details>
   <summary>✨ Click for a surprise!</summary>
 
-  🐣 Congrats, you found my hidden corner! Here's a funny dev meme:
+  🐣 Congrats, you found my hidden corner!
   <img src="https://i.imgur.com/oCkEbrA.png" width="300"/>
 </details>
+---
+
+<!-- Spotify now playing -->
+[![Spotify](https://novatorem-ten.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
 ---
 
 <h3 align="center">Thanks for stopping by! 💜</h3>
