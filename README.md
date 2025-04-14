@@ -82,7 +82,7 @@
 ---
 
 <!-- Spotify now playing -->
-[![Spotify](https://novatorem-ten.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem-ten.vercel.app/api/spotify)](https://open.spotify.com/user/Surabhi-Gith)
 
 ---
 
