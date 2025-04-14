@@ -72,5 +72,13 @@
 </p>
 
 ---
+<!-- Hidden message -->
+<details>
+  <summary>✨ Click for a surprise!</summary>
+
+  🐣 Congrats, you found my hidden corner! Here's a funny dev meme:
+  <img src="https://i.imgur.com/oCkEbrA.png" width="300"/>
+</details>
+---
 
 <h3 align="center">Thanks for stopping by! 💜</h3>
