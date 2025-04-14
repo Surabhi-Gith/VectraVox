@@ -1,79 +1,76 @@
-## Hi there 👋 
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/Surabhi.png" alt="Surabhi Banner" />
+</p>
 
-![Surabhi Banner](https://github.com/Surabhi-Gith/VectraVox/raw/main/Surabhi.png)
+<h1 align="center">Hey there 👋, I'm Surabhi!</h1>
 
-## 🚀 My GitHub Stats
+<p align="center">
+  🌟 Developer | 🎨 Designer | 🔍 Curious Mind <br>
+  💡 Turning ideas into interactive digital experiences.
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surabhi-Gith&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Gith&layout=donut&theme=radical)
+---
+## 🧰 Tech Stack
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="90px" height="90px" style="border-radius: 15px;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Surabhi-Gith&theme=dracula)
-
-![Visitor Count](https://profile-counter.glitch.me/Surabhi-Gith/count.svg) 
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Surabhi-Gith&theme=radical)
-
-## 🎖️ My Badges
-
-![CCNA Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/CCNAITN__1_.png)
-![I2CS Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/I2CS__1_.png)
-![Image 1 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(1).png)
-![Image 3 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(3).png)
-![Image 4 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(4).png)
-![Image 5 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(5).png)
-![Image 6 Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(6).png)
-![Image Badge](https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image.png)
-
-## ✍️ Blog
-
-- [Dev.to Articles](https://dev.to/surabhigith)  
-- [My Medium Profile](https://medium.com/@surabhisingh0575)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github&theme=dark" />
+</p>
 
 ---
 
-## 🚀 Thanks for visiting my profile!
+## 📊 GitHub Stats
 
-I'm always open to collaborating on exciting projects. Let’s build something amazing together!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surabhi-Gith&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Gith&layout=donut&theme=radical" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surabhi-Gith&theme=dracula" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/image/CCNAITN__1_.png" width="90" />
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/image/I2CS__1_.png" width="90" />
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(1).png" width="90" />
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(3).png" width="90" />
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(4).png" width="90" />
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(5).png" width="90" />
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/image/image%20(6).png" width="90" />
+</p>
+
+---
+
+## ✍️ Blog Posts
+
+- 🔥 [Check out my Dev.to articles](https://dev.to/surabhigith)
+- 📚 [Read my stories on Medium](https://medium.com/@surabhisingh0575)
+
+---
+
+## 📬 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:surabhisingh0575@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/surabhisingh0575/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/surabhigith"><img src="https://img.shields.io/badge/DEV-000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Surabhi-Gith/count.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Surabhi-Gith&theme=radical&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+<h3 align="center">Thanks for stopping by! 💜</h3>
