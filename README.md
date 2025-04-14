@@ -8,7 +8,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Gith&layout=donut&theme=radical)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surabhi-Gith&theme=radical)
 
 
 ## 🛠️ Tech Stack
