@@ -2,9 +2,10 @@
 
 ![Surabhi Banner](https://github.com/Surabhi-Gith/VectraVox/raw/main/Surabhi.png)
 
-## My GitHub Stats
+## 🚀 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhisingh1215&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surbhisingh1215&layout=donut)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surabhi-Gith&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Gith&layout=donut&theme=radical)
 
 
 ## 🛠️ Tech Stack
