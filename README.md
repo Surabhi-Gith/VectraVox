@@ -32,8 +32,9 @@
 
 ![:name](https://count.getloli.com/get/@:Surabhi-Gith?theme=gelbooru)
 
-<a href="https://coff.ee/surabhising" target="_blank">
-  <img src="https://raw.githubusercontent.com/Surabhi-Gith/VectraVox/main/image/coffee-svgrepo-com.svg" width="42" alt="Coffee for Surabhi" />
+
+<a href='https://coff.ee/surabhising' target='_blank'>
+  <img height='48' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' alt='Buy Me a Coffee' />
 </a>
 
 
