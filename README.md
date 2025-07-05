@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" width="800" />
+  <img src="https://jollycontrarian.com/images/Matrix_rain.gif" width="600" alt="Matrix digital rain" />
 </p>
 
 
