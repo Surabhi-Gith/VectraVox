@@ -32,6 +32,11 @@
 
 ![:name](https://count.getloli.com/get/@:Surabhi-Gith?theme=gelbooru)
 
+<a href="https://coff.ee/surabhising" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95%20surabhising-yellow" alt="Buy Me a Coffee" />
+</a>
+
+
 
 
 ## 🧰 Tech Stack
