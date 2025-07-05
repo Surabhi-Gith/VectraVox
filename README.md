@@ -32,10 +32,11 @@
 
 ![:name](https://count.getloli.com/get/@:Surabhi-Gith?theme=gelbooru)
 
-<a href="https://coff.ee/surabhising" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95%20surabhising-yellow" alt="Buy Me a Coffee" />
+<a href="https://coff.ee/surabhising" target="_blank" style="text-decoration: none;">
+  <div style="display: inline-block; padding: 14px 28px; border-radius: 16px; backdrop-filter: blur(8px); background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); box-shadow: 0 8px 20px rgba(0,0,0,0.2); font-size: 20px; font-weight: 600; color: #fff; transition: all 0.3s ease;">
+    ☕ Support me on Coffee
+  </div>
 </a>
-
 
 
 
