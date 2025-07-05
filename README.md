@@ -65,8 +65,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Gith&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surabhi-Gith&theme=dracula" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surabhi-Gith&theme=dracula" 
+       alt="Activity Graph" 
+       width="80%" />
 </p>
 
 ---
