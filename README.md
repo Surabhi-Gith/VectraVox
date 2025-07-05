@@ -82,6 +82,11 @@
   <img src="https://img.shields.io/badge/Read_on-Medium-black?logo=medium&logoColor=white" alt="Read on Medium" />
 </a>
 
+---
+
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Visionary+Mind+in+a+Digital+World;On+a+Mission+to+Decode+Reality;What+is+The+Matrix%3F+I+Am.;Wake+Up%2C+The+Code+Is+Everywhere." alt="Typing SVG" />
+</p>
 
 
 ---
