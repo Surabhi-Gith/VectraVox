@@ -33,8 +33,9 @@
 ![:name](https://count.getloli.com/get/@:Surabhi-Gith?theme=gelbooru)
 
 <a href="https://coff.ee/surabhising" target="_blank">
-  <img src="https://raw.githubusercontent.com/Surabhi-Gith/VectraVox/main/image/download.jpeg" alt="Buy Me a Coffee" width="100" style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://raw.githubusercontent.com/Surabhi-Gith/VectraVox/main/image/coffee-svgrepo-com.svg" width="42" alt="Coffee for Surabhi" />
 </a>
+
 
 
 
