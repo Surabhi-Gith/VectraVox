@@ -142,6 +142,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Gith&layout=compact&theme=radical" width="48%">
 
 ---
+<h3 align="center">🐍 Contribution Graph Snake</h3>
+
+<p align="center">
+  <img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake.svg" 
+       alt="Snake eating contributions" 
+       width="90%" 
+       style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+</p>
+
+---
 
 
 [![Spotify Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ephvsr6thmd3njbhjtehqz5gmi&limit=10)](https://open.spotify.com/user/31ephvsr6thmd3njbhjtehqz5gmi)
