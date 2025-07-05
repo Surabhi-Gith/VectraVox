@@ -28,16 +28,17 @@
 <img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/refs/heads/main/svg/emoji_u1fad0.svg" width="42">
 
 
+---
+<p align="center">
+  <img src="https://count.getloli.com/get/@:Surabhi-Gith?theme=gelbooru" alt="Profile Views" />
+</p>
 
-
-![:name](https://count.getloli.com/get/@:Surabhi-Gith?theme=gelbooru)
-
-
-<a href='https://coff.ee/surabhising' target='_blank'>
-  <img height='48' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' alt='Buy Me a Coffee' />
-</a>
-
-
+<p align="center">
+  <a href="https://coff.ee/surabhising" target="_blank">
+    <img height="48" src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="Buy Me a Coffee" />
+  </a>
+</p>
+---
 
 
 
