@@ -98,14 +98,17 @@
 ## 📬 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:surabhisingh0575@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-00FF00?style=flat-square&logo=gmail&logoColor=black&color=black" />
+  <a href="mailto:surabhisingh0575@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); height: 38px; margin: 6px;" />
   </a>
-  <a href="https://www.linkedin.com/in/surabhisingh0575/">
-    <img src="https://img.shields.io/badge/LinkedIn-Matrix_Network-00FF00?style=flat-square&logo=linkedin&logoColor=black&color=black" />
+  <a href="https://www.linkedin.com/in/surabhisingh0575/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Surabhi_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); height: 38px; margin: 6px;" />
   </a>
-  <a href="https://dev.to/surabhigith">
-    <img src="https://img.shields.io/badge/DEV-Dark_Blog_Zone-00FF00?style=flat-square&logo=dev.to&logoColor=black&color=black" />
+  <a href="https://dev.to/surabhigith" target="_blank">
+    <img src="https://img.shields.io/badge/DEV-Blogs_and_Tutorials-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" 
+         style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); height: 38px; margin: 6px;" />
   </a>
 </p>
 
