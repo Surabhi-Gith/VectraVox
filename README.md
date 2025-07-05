@@ -138,15 +138,6 @@
 </details>
 
 ---
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surabhi-Gith&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Gith&layout=compact&theme=radical" width="48%" />
-</p>
-
----
 <h3 align="center">🐍 Contribution Graph Snake</h3>
 
 <p align="center">
