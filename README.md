@@ -116,7 +116,9 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=552a2449-dee3-4cce-ae7c-0627827c1388" />
+
+[![Spotify Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ephvsr6thmd3njbhjtehqz5gmi&limit=10)](https://open.spotify.com/user/31ephvsr6thmd3njbhjtehqz5gmi)
+
 
 
 
