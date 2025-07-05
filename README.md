@@ -111,7 +111,13 @@
 </details>
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=Surabhi-Gith&show_icons=true&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surabhi-Gith&layout=compact&theme=radical" width="48%">
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=552a2449-dee3-4cce-ae7c-0627827c1388" />
+
+
 
 <h3 align="center">Thanks for stopping by! 💜</h3>
