@@ -6,6 +6,9 @@
 <h1 align="center">Hey there 👋, I'm Surabhi!</h1>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Creative+Developer+%7C+Dreamer+%7C+Explorer;Building+AI+with+Purpose+and+Passion;Welcome+to+My+Digital+Universe" alt="Typing SVG" />
+</p>
 
 ---
 
