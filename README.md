@@ -1,9 +1,3 @@
-# <img src="svg/theta.svg" width="42">&hairsp;<img src="svg/uranus.svg" width="42">&hairsp;<img src="svg/sulfur.svg" width="42">&hairsp;<img src="svg/chiron.svg" width="42">&hairsp;<img src="svg/femi.svg" width="42">&hairsp;<img src="svg/butterfly.svg" width="42">&hairsp;<img src="svg/white_heart.svg" width="42">&hairsp;<img src="svg/black_tear.svg" width="42">&hairsp;<img src="svg/maple.svg" width="42">&hairsp;<img src="svg/ice_cube.svg" width="42">&hairsp;<img src="svg/jester.svg" width="42">&hairsp;<img src="svg/blackthorn.svg" width="42"> <img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/refs/heads/main/svg/emoji_u1fad0.svg" width="42">
-
-
-
-
-
 
 <!-- Header Banner -->
 <p align="center">
@@ -18,6 +12,12 @@
 </p>
 
 ---
+
+
+# <img src="svg/theta.svg" width="42">&hairsp;<img src="svg/uranus.svg" width="42">&hairsp;<img src="svg/sulfur.svg" width="42">&hairsp;<img src="svg/chiron.svg" width="42">&hairsp;<img src="svg/femi.svg" width="42">&hairsp;<img src="svg/butterfly.svg" width="42">&hairsp;<img src="svg/white_heart.svg" width="42">&hairsp;<img src="svg/black_tear.svg" width="42">&hairsp;<img src="svg/maple.svg" width="42">&hairsp;<img src="svg/ice_cube.svg" width="42">&hairsp;<img src="svg/jester.svg" width="42">&hairsp;<img src="svg/blackthorn.svg" width="42"> <img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/refs/heads/main/svg/emoji_u1fad0.svg" width="42">
+
+
+
 ## 🧰 Tech Stack
 
 <p align="center">
