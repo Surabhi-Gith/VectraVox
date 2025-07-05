@@ -99,13 +99,13 @@
 
 <p align="center">
   <a href="mailto:surabhisingh0575@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-00FF00?style=flat-square&logo=gmail&logoColor=black&color=black" />
   </a>
   <a href="https://www.linkedin.com/in/surabhisingh0575/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Matrix_Network-00FF00?style=flat-square&logo=linkedin&logoColor=black&color=black" />
   </a>
   <a href="https://dev.to/surabhigith">
-    <img src="https://img.shields.io/badge/DEV-Blog-000000?style=flat-square&logo=dev.to&logoColor=white" />
+    <img src="https://img.shields.io/badge/DEV-Dark_Blog_Zone-00FF00?style=flat-square&logo=dev.to&logoColor=black&color=black" />
   </a>
 </p>
 
