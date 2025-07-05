@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 503.57 503.57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dbd8af;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Тета">
+      <rect class="cls-1" width="503.57" height="503.57" rx="55"/>
+      <ellipse class="cls-2" cx="251.78" cy="251.78" rx="191.08" ry="211.1"/>
+      <ellipse class="cls-1" cx="251.78" cy="251.78" rx="137.83" ry="190.02"/>
+      <rect class="cls-2" x="174.09" y="174.09" width="155.39" height="155.39" rx="24"/>
+      <g>
+        <g>
+          <rect class="cls-1" x="185.92" y="75.09" width="131.73" height="155.39" rx="24"/>
+          <rect class="cls-1" x="150.44" y="157.44" width="202.69" height="48" rx="24"/>
+        </g>
+        <g>
+          <rect class="cls-1" x="185.92" y="273.09" width="131.73" height="155.39" rx="24" transform="translate(503.57 701.57) rotate(-180)"/>
+          <rect class="cls-1" x="150.44" y="298.13" width="202.69" height="48" rx="24" transform="translate(503.57 644.26) rotate(180)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="Sulfur" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 503.57 503.57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e1d833;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="503.57" height="503.57" rx="55"/>
+  <path class="cls-2" d="M326,330.9H277V268.61H235V330.9H186a21,21,0,0,0,0,42h49V423a21,21,0,0,0,42,0V372.9h49a21,21,0,0,0,0-42Z" transform="translate(-4.22 -4.22)"/>
+  <path class="cls-2" d="M256,135.75,324.59,237H187.37L256,135.75M256,68,115.7,275H396.26L256,68Z" transform="translate(-4.22 -4.22)"/>
+</svg>
