@@ -1,10 +1,10 @@
-
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/Surabhi.png" alt="Surabhi Banner" />
+  <img src="https://github.com/Surabhi-Gith/VectraVox/raw/main/Surabhi.png" alt="Surabhi Banner" width="70%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Surabhi!</h1>
+
 
 <p align="center">
   🌟 Developer | 🎨 Designer | 🔍 Curious Mind <br>
