@@ -89,9 +89,8 @@
 </p>
 
 <p align="center">
-  <img src="https://jollycontrarian.com/images/Matrix_rain.gif" width="600" alt="Matrix digital rain" />
+  <img src="https://raw.githubusercontent.com/Surabhi-Gith/VectraVox/main/image/1_eBZfXMuE72uCDtjUZEzZHQ.gif" width="600" alt="Matrix Rain" />
 </p>
-
 
 
 ---
