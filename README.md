@@ -79,7 +79,8 @@
 ## ✍️ Blog Posts
 
 - 🔥 [Check out my Dev.to articles](https://dev.to/surabhigith)
-- 📚 [Read my stories on Medium](https://medium.com/@surabhisingh0575)
+[<img src="https://raw.githubusercontent.com/Surabhi-Gith/VectraVox/main/image/medium-icon-svgrepo-com.svg" width="24" alt="Medium Logo" /> Read my stories on Medium](https://medium.com/@surabhisingh0575)
+
 
 ---
 
