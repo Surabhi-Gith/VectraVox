@@ -153,9 +153,11 @@
 
 ---
 
-
-[![Spotify Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ephvsr6thmd3njbhjtehqz5gmi&limit=10)](https://open.spotify.com/user/31ephvsr6thmd3njbhjtehqz5gmi)
-
+<p align="center">
+  <a href="https://open.spotify.com/user/31ephvsr6thmd3njbhjtehqz5gmi" target="_blank">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ephvsr6thmd3njbhjtehqz5gmi&limit=10" alt="Spotify Card"/>
+  </a>
+</p>
 
 
 
