@@ -88,6 +88,11 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Visionary+Mind+in+a+Digital+World;On+a+Mission+to+Decode+Reality;What+is+The+Matrix%3F+I+Am.;Wake+Up%2C+The+Code+Is+Everywhere." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" width="800" />
+</p>
+
+
 
 ---
 
