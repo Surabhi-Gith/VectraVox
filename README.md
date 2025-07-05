@@ -78,8 +78,6 @@
 
 ## ✍️ Blog Posts
 
-- 🔥 [Check out my Dev.to articles](https://dev.to/surabhigith)
-- 
 <a href="https://medium.com/@surabhisingh0575" target="_blank">
   <img src="https://img.shields.io/badge/Read_on-Medium-black?logo=medium&logoColor=white" alt="Read on Medium" />
 </a>
