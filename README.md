@@ -98,10 +98,17 @@
 ## 📬 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:surabhisingh0575@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/surabhisingh0575/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/surabhigith"><img src="https://img.shields.io/badge/DEV-000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="mailto:surabhisingh0575@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/surabhisingh0575/">
+    <img src="https://img.shields.io/badge/LinkedIn-Surabhi_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/surabhigith">
+    <img src="https://img.shields.io/badge/DEV-Blogs_and_Tutorials-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
