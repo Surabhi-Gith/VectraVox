@@ -5,6 +5,7 @@
 
 <h1 align="center">Hey there 👋, I'm Surabhi!</h1>
 
+---
 
 <p align="center">
   🌟 Developer | 🎨 Designer | 🔍 Curious Mind <br>
